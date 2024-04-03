@@ -1,2 +1,2 @@
 # Aerodynamic-Analysis-of-Wingtip-Vortices
-All simulated results from my aerodynamic analysis of wingtip vortices project are presented
+All simulated results from my Fluid Mechanics Project: Aerodynamic Analysis of Wingtip Vortices are avaliable here
